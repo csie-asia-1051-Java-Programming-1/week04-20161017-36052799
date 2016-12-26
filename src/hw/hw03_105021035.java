@@ -19,7 +19,8 @@ Scanner scn = new Scanner(System.in);
 						c=c+i;
 					}
 				}
-			}System.out.println("不ˊ會) ;
+			}System.out.println("正數:"+(a-1)+"零:"+b+"負數:"+c);
+			
 					    }
 
 }
